@@ -1,0 +1,248 @@
+/* h1{
+    color: #F8FFD2
+}
+p{
+   color:#D0F288
+}
+
+button{
+    background-color: rgb(0,0,0);
+    color:#8ADAB2
+}
+
+body{
+    background-color: #DF826C
+}
+#heading1{
+    color: #ffff00;
+}
+.myclass{
+    color:rgb(255,200,150);
+} */
+
+/* -------------------------------------------------------- */
+
+/* ques 1
+
+#box{
+    background-color: #0000ff;
+    color: #ffffff;
+} */
+
+/* ----------------------------------------- */
+
+ /* p {
+    
+    text-align: center;
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: lighter;
+}
+a {
+    
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+#id1{
+    font-family:arial;
+    font-size: 20px;
+}
+#id2{
+    font-family: cursive;
+    font-size: 25px;
+}   */
+
+
+/* 
+-------------------------------------------------- */
+
+/* problem pratice2 */
+
+/* h1{
+    text-align: center;
+    text-transform:capitalize;
+    font-family: 'Times New Roman';
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+} */
+
+
+/* 
+button{
+    background-color: #ff00ff;
+    height: 20px;
+    width: 50px;
+
+} */
+
+/* 
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border-width: 2px;
+    border-style:solid;
+    border-color: brown; 
+
+    border: 2px solid pink; same as above both are same 
+    border-radius: 10px;
+    padding-left: 25px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0,255,0);
+    border-radius: 50%;
+} */
+
+/* 
+------------------------------------ create navbar*/
+/* 
+*{
+    padding: 0;
+    margin: 0;
+    color: rgb(255,255,255);
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+   color: #f08804;
+   font-size:25px ;
+}
+a{
+    margin-right: 200px;
+} */
+
+/* --------------------------- */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline;
+    display: inline-block; 
+}
+#rk{
+    color:rgba(255,0,0,0.5)
+} */
+
+/* ques 4 */
+
+/* *{
+    padding: 0;
+    margin: 0;
+    color: rgb(255,255,255);
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size:25px ;
+}
+a{
+    margin-right: 200px;
+}
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+#content{
+    height: 500px;
+    
+}
+footer{
+    background-color: #0f1111;
+    text-align: center;
+    color: white;
+} */
+
+/* ------------------------------ */
+
+/* #box1{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+#box2{
+    height: 50px;
+    width: 50vh;
+    background-color: green;
+    margin-left: 25px;
+} */
+
+/* -------------------------------------- */
+/* div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    
+} */
+/* #box1{
+    position: static;
+}
+#box2{
+    position: relative;
+    top: 20px;
+}
+#box3{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+#box4{
+    position: fixed;
+} */
+/* ------------------------ background images */
+
+/* #box1{
+    background-image:url(th.jpeg) ;
+    background-size: cover;
+}  */
+
+
+body{
+    background-image: url(vegi.webp);
+    background-size: cover;
+}
+nav {
+    color: white;
+    padding: 0.5em;
+    text-align: end;
+    position: relative;
+    bottom: 200px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    text-align: end;
+    margin:20px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: white;
+    position: relative;
+    top: 250px;
+   
+}
